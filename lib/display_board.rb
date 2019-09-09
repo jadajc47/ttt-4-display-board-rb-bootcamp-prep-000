@@ -1,4 +1,4 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 board = [" "," "," "," "," "," "," "," "," "]
-puts "X #{board[1]}
+puts "X #{board[1]}""
